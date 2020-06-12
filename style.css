@@ -36,7 +36,7 @@ html, body{
 	text-align: center;
 	font-size: 1.1em;
 	font-weight: lighter;
-	border-bottom: 1px solid rgba(255,255,255,.3)
+	border-bottom: 1px solid rgba(255,255,255,.3);
 }
 
 .main-nav li {
@@ -66,6 +66,10 @@ html, body{
 }
 
 .content-section {
+    margin: 1em;
+}
+
+.container {
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 0 1.5em;
@@ -112,3 +116,4 @@ html, body{
 	height: 40px;
 	border-radius: 50%;
 }
+
